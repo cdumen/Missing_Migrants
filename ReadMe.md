@@ -3,10 +3,10 @@
 
 ### Table of Contents
 1. [Installation](#Installation)
-2. [Project Motivation](#Project Motivation)
-3. [File Description](#File Description)
+2. [Project Motivation](#Project_Motivation)
+3. [File Description](#File_Description)
 4. [Results](#Results)
-5. [Licencing, Authors, and Acknowledgements](#Licencing, Authors, and Acknowledgements)
+5. [Licencing, Authors, and Acknowledgements](#Licencing_Authors_and_Acknowledgements)
 
 ### Installation
 
