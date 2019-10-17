@@ -54,7 +54,7 @@ Missing Migrants Project tracks deaths of migrants, including refugees and asylu
 
 ### Results
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://medium.com/@cerendumen/investigating-missing-migrants-9823a0423e94).
 
 ### Licencing, Authors, and Acknowledgements
 
